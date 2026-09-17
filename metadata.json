@@ -1,0 +1,6 @@
+{
+  "name": "3D Neon City Drive",
+  "description": "Game 3D endless runner bergaya Synthwave/Cyberpunk menggunakan Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
